@@ -1,0 +1,49 @@
+Base path: D:/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=89437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=22089 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=28597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13247 outsize=31321 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=25381 outsize=15909 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2059 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2395 outsize=1345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5004 outsize=4101 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9166 outsize=8765 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2868 outsize=897 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18144 outsize=13729 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1470 outsize=573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=32699 outsize=43885 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15985 outsize=14313 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1454 outsize=1461 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7009 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=9453 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6565 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8957 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=9261 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
