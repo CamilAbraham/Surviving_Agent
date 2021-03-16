@@ -11,7 +11,7 @@ There is also a "bad" agent. This agent starts inside of a labyrinth. If he mana
 This image shows the start of a run for the agent.
 
 ![After a while](https://github.com/CamilAbraham/Surviving_Agent/blob/main/AgentSimulation1.PNG?raw=true)
-Here we can see how the stats of the main agent have been depleted.
+Here we can see how the stats of the main agent have been depleted. Also, in front of the agent is a table, which simulates the food resource. The agent might be walking towards it to replenish some of his food bar.
 
 ![Bad agent](https://github.com/CamilAbraham/Surviving_Agent/blob/main/AgentSimulation4.PNG?raw=true)
 The bad agent, before starting the runn.
